@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\27-Abstract and Sealed Classes\27-Abstract and Sealed Classes\bin\Debug\net6.0\27-Abstract and Sealed Classes.exe
+C:\Users\HAZEMADEL\source\repos\27-Abstract and Sealed Classes\27-Abstract and Sealed Classes\bin\Debug\net6.0\27-Abstract and Sealed Classes.deps.json
+C:\Users\HAZEMADEL\source\repos\27-Abstract and Sealed Classes\27-Abstract and Sealed Classes\bin\Debug\net6.0\27-Abstract and Sealed Classes.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\27-Abstract and Sealed Classes\27-Abstract and Sealed Classes\bin\Debug\net6.0\27-Abstract and Sealed Classes.dll
+C:\Users\HAZEMADEL\source\repos\27-Abstract and Sealed Classes\27-Abstract and Sealed Classes\bin\Debug\net6.0\27-Abstract and Sealed Classes.pdb
+C:\Users\HAZEMADEL\source\repos\27-Abstract and Sealed Classes\27-Abstract and Sealed Classes\obj\Debug\net6.0\27-Abstract and Sealed Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\27-Abstract and Sealed Classes\27-Abstract and Sealed Classes\obj\Debug\net6.0\27-Abstract and Sealed Classes.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\27-Abstract and Sealed Classes\27-Abstract and Sealed Classes\obj\Debug\net6.0\27-Abstract and Sealed Classes.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\27-Abstract and Sealed Classes\27-Abstract and Sealed Classes\obj\Debug\net6.0\27-Abstract and Sealed Classes.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\27-Abstract and Sealed Classes\27-Abstract and Sealed Classes\obj\Debug\net6.0\27-Abstract and Sealed Classes.dll
+C:\Users\HAZEMADEL\source\repos\27-Abstract and Sealed Classes\27-Abstract and Sealed Classes\obj\Debug\net6.0\refint\27-Abstract and Sealed Classes.dll
+C:\Users\HAZEMADEL\source\repos\27-Abstract and Sealed Classes\27-Abstract and Sealed Classes\obj\Debug\net6.0\27-Abstract and Sealed Classes.pdb
+C:\Users\HAZEMADEL\source\repos\27-Abstract and Sealed Classes\27-Abstract and Sealed Classes\obj\Debug\net6.0\27-Abstract and Sealed Classes.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\27-Abstract and Sealed Classes\27-Abstract and Sealed Classes\obj\Debug\net6.0\ref\27-Abstract and Sealed Classes.dll
