@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\36-ArrayList\36-ArrayList\bin\Debug\net6.0\36-ArrayList.exe
+C:\Users\HAZEMADEL\source\repos\36-ArrayList\36-ArrayList\bin\Debug\net6.0\36-ArrayList.deps.json
+C:\Users\HAZEMADEL\source\repos\36-ArrayList\36-ArrayList\bin\Debug\net6.0\36-ArrayList.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\36-ArrayList\36-ArrayList\bin\Debug\net6.0\36-ArrayList.dll
+C:\Users\HAZEMADEL\source\repos\36-ArrayList\36-ArrayList\bin\Debug\net6.0\36-ArrayList.pdb
+C:\Users\HAZEMADEL\source\repos\36-ArrayList\36-ArrayList\obj\Debug\net6.0\36-ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\36-ArrayList\36-ArrayList\obj\Debug\net6.0\36-ArrayList.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\36-ArrayList\36-ArrayList\obj\Debug\net6.0\36-ArrayList.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\36-ArrayList\36-ArrayList\obj\Debug\net6.0\36-ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\36-ArrayList\36-ArrayList\obj\Debug\net6.0\36-ArrayList.dll
+C:\Users\HAZEMADEL\source\repos\36-ArrayList\36-ArrayList\obj\Debug\net6.0\refint\36-ArrayList.dll
+C:\Users\HAZEMADEL\source\repos\36-ArrayList\36-ArrayList\obj\Debug\net6.0\36-ArrayList.pdb
+C:\Users\HAZEMADEL\source\repos\36-ArrayList\36-ArrayList\obj\Debug\net6.0\36-ArrayList.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\36-ArrayList\36-ArrayList\obj\Debug\net6.0\ref\36-ArrayList.dll
