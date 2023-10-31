@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\25-Properties (Getters and Setters)\25-Properties (Getters and Setters)\bin\Debug\net6.0\25-Properties (Getters and Setters).exe
+C:\Users\HAZEMADEL\source\repos\25-Properties (Getters and Setters)\25-Properties (Getters and Setters)\bin\Debug\net6.0\25-Properties (Getters and Setters).deps.json
+C:\Users\HAZEMADEL\source\repos\25-Properties (Getters and Setters)\25-Properties (Getters and Setters)\bin\Debug\net6.0\25-Properties (Getters and Setters).runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\25-Properties (Getters and Setters)\25-Properties (Getters and Setters)\bin\Debug\net6.0\25-Properties (Getters and Setters).dll
+C:\Users\HAZEMADEL\source\repos\25-Properties (Getters and Setters)\25-Properties (Getters and Setters)\bin\Debug\net6.0\25-Properties (Getters and Setters).pdb
+C:\Users\HAZEMADEL\source\repos\25-Properties (Getters and Setters)\25-Properties (Getters and Setters)\obj\Debug\net6.0\25-Properties (Getters and Setters).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\25-Properties (Getters and Setters)\25-Properties (Getters and Setters)\obj\Debug\net6.0\25-Properties (Getters and Setters).AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\25-Properties (Getters and Setters)\25-Properties (Getters and Setters)\obj\Debug\net6.0\25-Properties (Getters and Setters).AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\25-Properties (Getters and Setters)\25-Properties (Getters and Setters)\obj\Debug\net6.0\25-Properties (Getters and Setters).csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\25-Properties (Getters and Setters)\25-Properties (Getters and Setters)\obj\Debug\net6.0\25-Properties (Getters and Setters).dll
+C:\Users\HAZEMADEL\source\repos\25-Properties (Getters and Setters)\25-Properties (Getters and Setters)\obj\Debug\net6.0\refint\25-Properties (Getters and Setters).dll
+C:\Users\HAZEMADEL\source\repos\25-Properties (Getters and Setters)\25-Properties (Getters and Setters)\obj\Debug\net6.0\25-Properties (Getters and Setters).pdb
+C:\Users\HAZEMADEL\source\repos\25-Properties (Getters and Setters)\25-Properties (Getters and Setters)\obj\Debug\net6.0\25-Properties (Getters and Setters).genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\25-Properties (Getters and Setters)\25-Properties (Getters and Setters)\obj\Debug\net6.0\ref\25-Properties (Getters and Setters).dll

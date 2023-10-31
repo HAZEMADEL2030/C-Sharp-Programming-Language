@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\26-Inheritance\26-Inheritance\bin\Debug\net6.0\26-Inheritance.exe
+C:\Users\HAZEMADEL\source\repos\26-Inheritance\26-Inheritance\bin\Debug\net6.0\26-Inheritance.deps.json
+C:\Users\HAZEMADEL\source\repos\26-Inheritance\26-Inheritance\bin\Debug\net6.0\26-Inheritance.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\26-Inheritance\26-Inheritance\bin\Debug\net6.0\26-Inheritance.dll
+C:\Users\HAZEMADEL\source\repos\26-Inheritance\26-Inheritance\bin\Debug\net6.0\26-Inheritance.pdb
+C:\Users\HAZEMADEL\source\repos\26-Inheritance\26-Inheritance\obj\Debug\net6.0\26-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\26-Inheritance\26-Inheritance\obj\Debug\net6.0\26-Inheritance.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\26-Inheritance\26-Inheritance\obj\Debug\net6.0\26-Inheritance.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\26-Inheritance\26-Inheritance\obj\Debug\net6.0\26-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\26-Inheritance\26-Inheritance\obj\Debug\net6.0\26-Inheritance.dll
+C:\Users\HAZEMADEL\source\repos\26-Inheritance\26-Inheritance\obj\Debug\net6.0\refint\26-Inheritance.dll
+C:\Users\HAZEMADEL\source\repos\26-Inheritance\26-Inheritance\obj\Debug\net6.0\26-Inheritance.pdb
+C:\Users\HAZEMADEL\source\repos\26-Inheritance\26-Inheritance\obj\Debug\net6.0\26-Inheritance.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\26-Inheritance\26-Inheritance\obj\Debug\net6.0\ref\26-Inheritance.dll
