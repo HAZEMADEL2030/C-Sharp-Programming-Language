@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\37-LinkedList\37-LinkedList\bin\Debug\net6.0\37-LinkedList.exe
+C:\Users\HAZEMADEL\source\repos\37-LinkedList\37-LinkedList\bin\Debug\net6.0\37-LinkedList.deps.json
+C:\Users\HAZEMADEL\source\repos\37-LinkedList\37-LinkedList\bin\Debug\net6.0\37-LinkedList.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\37-LinkedList\37-LinkedList\bin\Debug\net6.0\37-LinkedList.dll
+C:\Users\HAZEMADEL\source\repos\37-LinkedList\37-LinkedList\bin\Debug\net6.0\37-LinkedList.pdb
+C:\Users\HAZEMADEL\source\repos\37-LinkedList\37-LinkedList\obj\Debug\net6.0\37-LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\37-LinkedList\37-LinkedList\obj\Debug\net6.0\37-LinkedList.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\37-LinkedList\37-LinkedList\obj\Debug\net6.0\37-LinkedList.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\37-LinkedList\37-LinkedList\obj\Debug\net6.0\37-LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\37-LinkedList\37-LinkedList\obj\Debug\net6.0\37-LinkedList.dll
+C:\Users\HAZEMADEL\source\repos\37-LinkedList\37-LinkedList\obj\Debug\net6.0\refint\37-LinkedList.dll
+C:\Users\HAZEMADEL\source\repos\37-LinkedList\37-LinkedList\obj\Debug\net6.0\37-LinkedList.pdb
+C:\Users\HAZEMADEL\source\repos\37-LinkedList\37-LinkedList\obj\Debug\net6.0\37-LinkedList.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\37-LinkedList\37-LinkedList\obj\Debug\net6.0\ref\37-LinkedList.dll
