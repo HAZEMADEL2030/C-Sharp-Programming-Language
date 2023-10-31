@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\06-Loops the For Loop\06-Loops the For Loop\bin\Debug\net6.0\06-Loops the For Loop.exe
+C:\Users\HAZEMADEL\source\repos\06-Loops the For Loop\06-Loops the For Loop\bin\Debug\net6.0\06-Loops the For Loop.deps.json
+C:\Users\HAZEMADEL\source\repos\06-Loops the For Loop\06-Loops the For Loop\bin\Debug\net6.0\06-Loops the For Loop.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\06-Loops the For Loop\06-Loops the For Loop\bin\Debug\net6.0\06-Loops the For Loop.dll
+C:\Users\HAZEMADEL\source\repos\06-Loops the For Loop\06-Loops the For Loop\bin\Debug\net6.0\06-Loops the For Loop.pdb
+C:\Users\HAZEMADEL\source\repos\06-Loops the For Loop\06-Loops the For Loop\obj\Debug\net6.0\06-Loops the For Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\06-Loops the For Loop\06-Loops the For Loop\obj\Debug\net6.0\06-Loops the For Loop.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\06-Loops the For Loop\06-Loops the For Loop\obj\Debug\net6.0\06-Loops the For Loop.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\06-Loops the For Loop\06-Loops the For Loop\obj\Debug\net6.0\06-Loops the For Loop.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\06-Loops the For Loop\06-Loops the For Loop\obj\Debug\net6.0\06-Loops the For Loop.dll
+C:\Users\HAZEMADEL\source\repos\06-Loops the For Loop\06-Loops the For Loop\obj\Debug\net6.0\refint\06-Loops the For Loop.dll
+C:\Users\HAZEMADEL\source\repos\06-Loops the For Loop\06-Loops the For Loop\obj\Debug\net6.0\06-Loops the For Loop.pdb
+C:\Users\HAZEMADEL\source\repos\06-Loops the For Loop\06-Loops the For Loop\obj\Debug\net6.0\06-Loops the For Loop.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\06-Loops the For Loop\06-Loops the For Loop\obj\Debug\net6.0\ref\06-Loops the For Loop.dll

@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\05-Switch Case and Conditonal Operator\05-Switch Case and Conditonal Operator\bin\Debug\net6.0\05-Switch Case and Conditonal Operator.exe
+C:\Users\HAZEMADEL\source\repos\05-Switch Case and Conditonal Operator\05-Switch Case and Conditonal Operator\bin\Debug\net6.0\05-Switch Case and Conditonal Operator.deps.json
+C:\Users\HAZEMADEL\source\repos\05-Switch Case and Conditonal Operator\05-Switch Case and Conditonal Operator\bin\Debug\net6.0\05-Switch Case and Conditonal Operator.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\05-Switch Case and Conditonal Operator\05-Switch Case and Conditonal Operator\bin\Debug\net6.0\05-Switch Case and Conditonal Operator.dll
+C:\Users\HAZEMADEL\source\repos\05-Switch Case and Conditonal Operator\05-Switch Case and Conditonal Operator\bin\Debug\net6.0\05-Switch Case and Conditonal Operator.pdb
+C:\Users\HAZEMADEL\source\repos\05-Switch Case and Conditonal Operator\05-Switch Case and Conditonal Operator\obj\Debug\net6.0\05-Switch Case and Conditonal Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\05-Switch Case and Conditonal Operator\05-Switch Case and Conditonal Operator\obj\Debug\net6.0\05-Switch Case and Conditonal Operator.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\05-Switch Case and Conditonal Operator\05-Switch Case and Conditonal Operator\obj\Debug\net6.0\05-Switch Case and Conditonal Operator.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\05-Switch Case and Conditonal Operator\05-Switch Case and Conditonal Operator\obj\Debug\net6.0\05-Switch Case and Conditonal Operator.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\05-Switch Case and Conditonal Operator\05-Switch Case and Conditonal Operator\obj\Debug\net6.0\05-Switch Case and Conditonal Operator.dll
+C:\Users\HAZEMADEL\source\repos\05-Switch Case and Conditonal Operator\05-Switch Case and Conditonal Operator\obj\Debug\net6.0\refint\05-Switch Case and Conditonal Operator.dll
+C:\Users\HAZEMADEL\source\repos\05-Switch Case and Conditonal Operator\05-Switch Case and Conditonal Operator\obj\Debug\net6.0\05-Switch Case and Conditonal Operator.pdb
+C:\Users\HAZEMADEL\source\repos\05-Switch Case and Conditonal Operator\05-Switch Case and Conditonal Operator\obj\Debug\net6.0\05-Switch Case and Conditonal Operator.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\05-Switch Case and Conditonal Operator\05-Switch Case and Conditonal Operator\obj\Debug\net6.0\ref\05-Switch Case and Conditonal Operator.dll
