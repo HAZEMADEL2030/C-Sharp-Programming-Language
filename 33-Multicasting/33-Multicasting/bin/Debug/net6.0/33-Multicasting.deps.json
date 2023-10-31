@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "33-Multicasting/1.0.0": {
+        "runtime": {
+          "33-Multicasting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "33-Multicasting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
