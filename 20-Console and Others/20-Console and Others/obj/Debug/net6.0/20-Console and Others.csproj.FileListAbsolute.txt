@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\20-Console and Others\20-Console and Others\bin\Debug\net6.0\20-Console and Others.exe
+C:\Users\HAZEMADEL\source\repos\20-Console and Others\20-Console and Others\bin\Debug\net6.0\20-Console and Others.deps.json
+C:\Users\HAZEMADEL\source\repos\20-Console and Others\20-Console and Others\bin\Debug\net6.0\20-Console and Others.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\20-Console and Others\20-Console and Others\bin\Debug\net6.0\20-Console and Others.dll
+C:\Users\HAZEMADEL\source\repos\20-Console and Others\20-Console and Others\bin\Debug\net6.0\20-Console and Others.pdb
+C:\Users\HAZEMADEL\source\repos\20-Console and Others\20-Console and Others\obj\Debug\net6.0\20-Console and Others.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\20-Console and Others\20-Console and Others\obj\Debug\net6.0\20-Console and Others.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\20-Console and Others\20-Console and Others\obj\Debug\net6.0\20-Console and Others.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\20-Console and Others\20-Console and Others\obj\Debug\net6.0\20-Console and Others.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\20-Console and Others\20-Console and Others\obj\Debug\net6.0\20-Console and Others.dll
+C:\Users\HAZEMADEL\source\repos\20-Console and Others\20-Console and Others\obj\Debug\net6.0\refint\20-Console and Others.dll
+C:\Users\HAZEMADEL\source\repos\20-Console and Others\20-Console and Others\obj\Debug\net6.0\20-Console and Others.pdb
+C:\Users\HAZEMADEL\source\repos\20-Console and Others\20-Console and Others\obj\Debug\net6.0\20-Console and Others.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\20-Console and Others\20-Console and Others\obj\Debug\net6.0\ref\20-Console and Others.dll
