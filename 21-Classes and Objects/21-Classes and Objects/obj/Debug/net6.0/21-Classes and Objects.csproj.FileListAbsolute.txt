@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\21-Classes and Objects\21-Classes and Objects\bin\Debug\net6.0\21-Classes and Objects.exe
+C:\Users\HAZEMADEL\source\repos\21-Classes and Objects\21-Classes and Objects\bin\Debug\net6.0\21-Classes and Objects.deps.json
+C:\Users\HAZEMADEL\source\repos\21-Classes and Objects\21-Classes and Objects\bin\Debug\net6.0\21-Classes and Objects.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\21-Classes and Objects\21-Classes and Objects\bin\Debug\net6.0\21-Classes and Objects.dll
+C:\Users\HAZEMADEL\source\repos\21-Classes and Objects\21-Classes and Objects\bin\Debug\net6.0\21-Classes and Objects.pdb
+C:\Users\HAZEMADEL\source\repos\21-Classes and Objects\21-Classes and Objects\obj\Debug\net6.0\21-Classes and Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\21-Classes and Objects\21-Classes and Objects\obj\Debug\net6.0\21-Classes and Objects.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\21-Classes and Objects\21-Classes and Objects\obj\Debug\net6.0\21-Classes and Objects.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\21-Classes and Objects\21-Classes and Objects\obj\Debug\net6.0\21-Classes and Objects.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\21-Classes and Objects\21-Classes and Objects\obj\Debug\net6.0\21-Classes and Objects.dll
+C:\Users\HAZEMADEL\source\repos\21-Classes and Objects\21-Classes and Objects\obj\Debug\net6.0\refint\21-Classes and Objects.dll
+C:\Users\HAZEMADEL\source\repos\21-Classes and Objects\21-Classes and Objects\obj\Debug\net6.0\21-Classes and Objects.pdb
+C:\Users\HAZEMADEL\source\repos\21-Classes and Objects\21-Classes and Objects\obj\Debug\net6.0\21-Classes and Objects.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\21-Classes and Objects\21-Classes and Objects\obj\Debug\net6.0\ref\21-Classes and Objects.dll

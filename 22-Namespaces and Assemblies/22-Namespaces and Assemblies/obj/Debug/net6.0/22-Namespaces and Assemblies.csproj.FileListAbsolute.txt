@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\22-Namespaces and Assemblies\22-Namespaces and Assemblies\bin\Debug\net6.0\22-Namespaces and Assemblies.exe
+C:\Users\HAZEMADEL\source\repos\22-Namespaces and Assemblies\22-Namespaces and Assemblies\bin\Debug\net6.0\22-Namespaces and Assemblies.deps.json
+C:\Users\HAZEMADEL\source\repos\22-Namespaces and Assemblies\22-Namespaces and Assemblies\bin\Debug\net6.0\22-Namespaces and Assemblies.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\22-Namespaces and Assemblies\22-Namespaces and Assemblies\bin\Debug\net6.0\22-Namespaces and Assemblies.dll
+C:\Users\HAZEMADEL\source\repos\22-Namespaces and Assemblies\22-Namespaces and Assemblies\bin\Debug\net6.0\22-Namespaces and Assemblies.pdb
+C:\Users\HAZEMADEL\source\repos\22-Namespaces and Assemblies\22-Namespaces and Assemblies\obj\Debug\net6.0\22-Namespaces and Assemblies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\22-Namespaces and Assemblies\22-Namespaces and Assemblies\obj\Debug\net6.0\22-Namespaces and Assemblies.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\22-Namespaces and Assemblies\22-Namespaces and Assemblies\obj\Debug\net6.0\22-Namespaces and Assemblies.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\22-Namespaces and Assemblies\22-Namespaces and Assemblies\obj\Debug\net6.0\22-Namespaces and Assemblies.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\22-Namespaces and Assemblies\22-Namespaces and Assemblies\obj\Debug\net6.0\22-Namespaces and Assemblies.dll
+C:\Users\HAZEMADEL\source\repos\22-Namespaces and Assemblies\22-Namespaces and Assemblies\obj\Debug\net6.0\refint\22-Namespaces and Assemblies.dll
+C:\Users\HAZEMADEL\source\repos\22-Namespaces and Assemblies\22-Namespaces and Assemblies\obj\Debug\net6.0\22-Namespaces and Assemblies.pdb
+C:\Users\HAZEMADEL\source\repos\22-Namespaces and Assemblies\22-Namespaces and Assemblies\obj\Debug\net6.0\22-Namespaces and Assemblies.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\22-Namespaces and Assemblies\22-Namespaces and Assemblies\obj\Debug\net6.0\ref\22-Namespaces and Assemblies.dll
