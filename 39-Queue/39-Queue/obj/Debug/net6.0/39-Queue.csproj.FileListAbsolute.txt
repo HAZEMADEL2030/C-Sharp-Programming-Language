@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\39-Queue\39-Queue\bin\Debug\net6.0\39-Queue.exe
+C:\Users\HAZEMADEL\source\repos\39-Queue\39-Queue\bin\Debug\net6.0\39-Queue.deps.json
+C:\Users\HAZEMADEL\source\repos\39-Queue\39-Queue\bin\Debug\net6.0\39-Queue.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\39-Queue\39-Queue\bin\Debug\net6.0\39-Queue.dll
+C:\Users\HAZEMADEL\source\repos\39-Queue\39-Queue\bin\Debug\net6.0\39-Queue.pdb
+C:\Users\HAZEMADEL\source\repos\39-Queue\39-Queue\obj\Debug\net6.0\39-Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\39-Queue\39-Queue\obj\Debug\net6.0\39-Queue.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\39-Queue\39-Queue\obj\Debug\net6.0\39-Queue.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\39-Queue\39-Queue\obj\Debug\net6.0\39-Queue.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\39-Queue\39-Queue\obj\Debug\net6.0\39-Queue.dll
+C:\Users\HAZEMADEL\source\repos\39-Queue\39-Queue\obj\Debug\net6.0\refint\39-Queue.dll
+C:\Users\HAZEMADEL\source\repos\39-Queue\39-Queue\obj\Debug\net6.0\39-Queue.pdb
+C:\Users\HAZEMADEL\source\repos\39-Queue\39-Queue\obj\Debug\net6.0\39-Queue.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\39-Queue\39-Queue\obj\Debug\net6.0\ref\39-Queue.dll
