@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\15-Methods (Functions and Procedures)\15-Methods (Functions and Procedures)\bin\Debug\net6.0\15-Methods (Functions and Procedures).exe
+C:\Users\HAZEMADEL\source\repos\15-Methods (Functions and Procedures)\15-Methods (Functions and Procedures)\bin\Debug\net6.0\15-Methods (Functions and Procedures).deps.json
+C:\Users\HAZEMADEL\source\repos\15-Methods (Functions and Procedures)\15-Methods (Functions and Procedures)\bin\Debug\net6.0\15-Methods (Functions and Procedures).runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\15-Methods (Functions and Procedures)\15-Methods (Functions and Procedures)\bin\Debug\net6.0\15-Methods (Functions and Procedures).dll
+C:\Users\HAZEMADEL\source\repos\15-Methods (Functions and Procedures)\15-Methods (Functions and Procedures)\bin\Debug\net6.0\15-Methods (Functions and Procedures).pdb
+C:\Users\HAZEMADEL\source\repos\15-Methods (Functions and Procedures)\15-Methods (Functions and Procedures)\obj\Debug\net6.0\15-Methods (Functions and Procedures).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\15-Methods (Functions and Procedures)\15-Methods (Functions and Procedures)\obj\Debug\net6.0\15-Methods (Functions and Procedures).AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\15-Methods (Functions and Procedures)\15-Methods (Functions and Procedures)\obj\Debug\net6.0\15-Methods (Functions and Procedures).AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\15-Methods (Functions and Procedures)\15-Methods (Functions and Procedures)\obj\Debug\net6.0\15-Methods (Functions and Procedures).csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\15-Methods (Functions and Procedures)\15-Methods (Functions and Procedures)\obj\Debug\net6.0\15-Methods (Functions and Procedures).dll
+C:\Users\HAZEMADEL\source\repos\15-Methods (Functions and Procedures)\15-Methods (Functions and Procedures)\obj\Debug\net6.0\refint\15-Methods (Functions and Procedures).dll
+C:\Users\HAZEMADEL\source\repos\15-Methods (Functions and Procedures)\15-Methods (Functions and Procedures)\obj\Debug\net6.0\15-Methods (Functions and Procedures).pdb
+C:\Users\HAZEMADEL\source\repos\15-Methods (Functions and Procedures)\15-Methods (Functions and Procedures)\obj\Debug\net6.0\15-Methods (Functions and Procedures).genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\15-Methods (Functions and Procedures)\15-Methods (Functions and Procedures)\obj\Debug\net6.0\ref\15-Methods (Functions and Procedures).dll
