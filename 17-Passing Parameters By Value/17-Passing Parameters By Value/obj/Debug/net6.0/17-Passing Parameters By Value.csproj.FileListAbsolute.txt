@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\17-Passing Parameters By Value\17-Passing Parameters By Value\bin\Debug\net6.0\17-Passing Parameters By Value.exe
+C:\Users\HAZEMADEL\source\repos\17-Passing Parameters By Value\17-Passing Parameters By Value\bin\Debug\net6.0\17-Passing Parameters By Value.deps.json
+C:\Users\HAZEMADEL\source\repos\17-Passing Parameters By Value\17-Passing Parameters By Value\bin\Debug\net6.0\17-Passing Parameters By Value.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\17-Passing Parameters By Value\17-Passing Parameters By Value\bin\Debug\net6.0\17-Passing Parameters By Value.dll
+C:\Users\HAZEMADEL\source\repos\17-Passing Parameters By Value\17-Passing Parameters By Value\bin\Debug\net6.0\17-Passing Parameters By Value.pdb
+C:\Users\HAZEMADEL\source\repos\17-Passing Parameters By Value\17-Passing Parameters By Value\obj\Debug\net6.0\17-Passing Parameters By Value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\17-Passing Parameters By Value\17-Passing Parameters By Value\obj\Debug\net6.0\17-Passing Parameters By Value.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\17-Passing Parameters By Value\17-Passing Parameters By Value\obj\Debug\net6.0\17-Passing Parameters By Value.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\17-Passing Parameters By Value\17-Passing Parameters By Value\obj\Debug\net6.0\17-Passing Parameters By Value.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\17-Passing Parameters By Value\17-Passing Parameters By Value\obj\Debug\net6.0\17-Passing Parameters By Value.dll
+C:\Users\HAZEMADEL\source\repos\17-Passing Parameters By Value\17-Passing Parameters By Value\obj\Debug\net6.0\refint\17-Passing Parameters By Value.dll
+C:\Users\HAZEMADEL\source\repos\17-Passing Parameters By Value\17-Passing Parameters By Value\obj\Debug\net6.0\17-Passing Parameters By Value.pdb
+C:\Users\HAZEMADEL\source\repos\17-Passing Parameters By Value\17-Passing Parameters By Value\obj\Debug\net6.0\17-Passing Parameters By Value.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\17-Passing Parameters By Value\17-Passing Parameters By Value\obj\Debug\net6.0\ref\17-Passing Parameters By Value.dll

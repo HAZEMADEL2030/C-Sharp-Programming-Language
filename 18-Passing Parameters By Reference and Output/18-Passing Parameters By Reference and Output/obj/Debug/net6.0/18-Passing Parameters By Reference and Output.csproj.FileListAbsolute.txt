@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\18-Passing Parameters By Reference and Output\18-Passing Parameters By Reference and Output\bin\Debug\net6.0\18-Passing Parameters By Reference and Output.exe
+C:\Users\HAZEMADEL\source\repos\18-Passing Parameters By Reference and Output\18-Passing Parameters By Reference and Output\bin\Debug\net6.0\18-Passing Parameters By Reference and Output.deps.json
+C:\Users\HAZEMADEL\source\repos\18-Passing Parameters By Reference and Output\18-Passing Parameters By Reference and Output\bin\Debug\net6.0\18-Passing Parameters By Reference and Output.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\18-Passing Parameters By Reference and Output\18-Passing Parameters By Reference and Output\bin\Debug\net6.0\18-Passing Parameters By Reference and Output.dll
+C:\Users\HAZEMADEL\source\repos\18-Passing Parameters By Reference and Output\18-Passing Parameters By Reference and Output\bin\Debug\net6.0\18-Passing Parameters By Reference and Output.pdb
+C:\Users\HAZEMADEL\source\repos\18-Passing Parameters By Reference and Output\18-Passing Parameters By Reference and Output\obj\Debug\net6.0\18-Passing Parameters By Reference and Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\18-Passing Parameters By Reference and Output\18-Passing Parameters By Reference and Output\obj\Debug\net6.0\18-Passing Parameters By Reference and Output.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\18-Passing Parameters By Reference and Output\18-Passing Parameters By Reference and Output\obj\Debug\net6.0\18-Passing Parameters By Reference and Output.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\18-Passing Parameters By Reference and Output\18-Passing Parameters By Reference and Output\obj\Debug\net6.0\18-Passing Parameters By Reference and Output.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\18-Passing Parameters By Reference and Output\18-Passing Parameters By Reference and Output\obj\Debug\net6.0\18-Passing Parameters By Reference and Output.dll
+C:\Users\HAZEMADEL\source\repos\18-Passing Parameters By Reference and Output\18-Passing Parameters By Reference and Output\obj\Debug\net6.0\refint\18-Passing Parameters By Reference and Output.dll
+C:\Users\HAZEMADEL\source\repos\18-Passing Parameters By Reference and Output\18-Passing Parameters By Reference and Output\obj\Debug\net6.0\18-Passing Parameters By Reference and Output.pdb
+C:\Users\HAZEMADEL\source\repos\18-Passing Parameters By Reference and Output\18-Passing Parameters By Reference and Output\obj\Debug\net6.0\18-Passing Parameters By Reference and Output.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\18-Passing Parameters By Reference and Output\18-Passing Parameters By Reference and Output\obj\Debug\net6.0\ref\18-Passing Parameters By Reference and Output.dll
