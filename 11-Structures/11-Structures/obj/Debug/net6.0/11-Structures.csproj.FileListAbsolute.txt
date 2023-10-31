@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\11-Structures\11-Structures\bin\Debug\net6.0\11-Structures.exe
+C:\Users\HAZEMADEL\source\repos\11-Structures\11-Structures\bin\Debug\net6.0\11-Structures.deps.json
+C:\Users\HAZEMADEL\source\repos\11-Structures\11-Structures\bin\Debug\net6.0\11-Structures.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\11-Structures\11-Structures\bin\Debug\net6.0\11-Structures.dll
+C:\Users\HAZEMADEL\source\repos\11-Structures\11-Structures\bin\Debug\net6.0\11-Structures.pdb
+C:\Users\HAZEMADEL\source\repos\11-Structures\11-Structures\obj\Debug\net6.0\11-Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\11-Structures\11-Structures\obj\Debug\net6.0\11-Structures.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\11-Structures\11-Structures\obj\Debug\net6.0\11-Structures.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\11-Structures\11-Structures\obj\Debug\net6.0\11-Structures.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\11-Structures\11-Structures\obj\Debug\net6.0\11-Structures.dll
+C:\Users\HAZEMADEL\source\repos\11-Structures\11-Structures\obj\Debug\net6.0\refint\11-Structures.dll
+C:\Users\HAZEMADEL\source\repos\11-Structures\11-Structures\obj\Debug\net6.0\11-Structures.pdb
+C:\Users\HAZEMADEL\source\repos\11-Structures\11-Structures\obj\Debug\net6.0\11-Structures.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\11-Structures\11-Structures\obj\Debug\net6.0\ref\11-Structures.dll

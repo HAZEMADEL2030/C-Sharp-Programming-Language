@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\12-Enumerators\12-Enumerators\bin\Debug\net6.0\12-Enumerators.exe
+C:\Users\HAZEMADEL\source\repos\12-Enumerators\12-Enumerators\bin\Debug\net6.0\12-Enumerators.deps.json
+C:\Users\HAZEMADEL\source\repos\12-Enumerators\12-Enumerators\bin\Debug\net6.0\12-Enumerators.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\12-Enumerators\12-Enumerators\bin\Debug\net6.0\12-Enumerators.dll
+C:\Users\HAZEMADEL\source\repos\12-Enumerators\12-Enumerators\bin\Debug\net6.0\12-Enumerators.pdb
+C:\Users\HAZEMADEL\source\repos\12-Enumerators\12-Enumerators\obj\Debug\net6.0\12-Enumerators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\12-Enumerators\12-Enumerators\obj\Debug\net6.0\12-Enumerators.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\12-Enumerators\12-Enumerators\obj\Debug\net6.0\12-Enumerators.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\12-Enumerators\12-Enumerators\obj\Debug\net6.0\12-Enumerators.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\12-Enumerators\12-Enumerators\obj\Debug\net6.0\12-Enumerators.dll
+C:\Users\HAZEMADEL\source\repos\12-Enumerators\12-Enumerators\obj\Debug\net6.0\refint\12-Enumerators.dll
+C:\Users\HAZEMADEL\source\repos\12-Enumerators\12-Enumerators\obj\Debug\net6.0\12-Enumerators.pdb
+C:\Users\HAZEMADEL\source\repos\12-Enumerators\12-Enumerators\obj\Debug\net6.0\12-Enumerators.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\12-Enumerators\12-Enumerators\obj\Debug\net6.0\ref\12-Enumerators.dll
