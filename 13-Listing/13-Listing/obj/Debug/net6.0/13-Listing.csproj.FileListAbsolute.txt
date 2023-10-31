@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\13-Listing\13-Listing\bin\Debug\net6.0\13-Listing.exe
+C:\Users\HAZEMADEL\source\repos\13-Listing\13-Listing\bin\Debug\net6.0\13-Listing.deps.json
+C:\Users\HAZEMADEL\source\repos\13-Listing\13-Listing\bin\Debug\net6.0\13-Listing.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\13-Listing\13-Listing\bin\Debug\net6.0\13-Listing.dll
+C:\Users\HAZEMADEL\source\repos\13-Listing\13-Listing\bin\Debug\net6.0\13-Listing.pdb
+C:\Users\HAZEMADEL\source\repos\13-Listing\13-Listing\obj\Debug\net6.0\13-Listing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\13-Listing\13-Listing\obj\Debug\net6.0\13-Listing.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\13-Listing\13-Listing\obj\Debug\net6.0\13-Listing.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\13-Listing\13-Listing\obj\Debug\net6.0\13-Listing.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\13-Listing\13-Listing\obj\Debug\net6.0\13-Listing.dll
+C:\Users\HAZEMADEL\source\repos\13-Listing\13-Listing\obj\Debug\net6.0\refint\13-Listing.dll
+C:\Users\HAZEMADEL\source\repos\13-Listing\13-Listing\obj\Debug\net6.0\13-Listing.pdb
+C:\Users\HAZEMADEL\source\repos\13-Listing\13-Listing\obj\Debug\net6.0\13-Listing.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\13-Listing\13-Listing\obj\Debug\net6.0\ref\13-Listing.dll
