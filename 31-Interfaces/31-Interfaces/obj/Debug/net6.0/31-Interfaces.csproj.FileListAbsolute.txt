@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\31-Interfaces\31-Interfaces\bin\Debug\net6.0\31-Interfaces.exe
+C:\Users\HAZEMADEL\source\repos\31-Interfaces\31-Interfaces\bin\Debug\net6.0\31-Interfaces.deps.json
+C:\Users\HAZEMADEL\source\repos\31-Interfaces\31-Interfaces\bin\Debug\net6.0\31-Interfaces.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\31-Interfaces\31-Interfaces\bin\Debug\net6.0\31-Interfaces.dll
+C:\Users\HAZEMADEL\source\repos\31-Interfaces\31-Interfaces\bin\Debug\net6.0\31-Interfaces.pdb
+C:\Users\HAZEMADEL\source\repos\31-Interfaces\31-Interfaces\obj\Debug\net6.0\31-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\31-Interfaces\31-Interfaces\obj\Debug\net6.0\31-Interfaces.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\31-Interfaces\31-Interfaces\obj\Debug\net6.0\31-Interfaces.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\31-Interfaces\31-Interfaces\obj\Debug\net6.0\31-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\31-Interfaces\31-Interfaces\obj\Debug\net6.0\31-Interfaces.dll
+C:\Users\HAZEMADEL\source\repos\31-Interfaces\31-Interfaces\obj\Debug\net6.0\refint\31-Interfaces.dll
+C:\Users\HAZEMADEL\source\repos\31-Interfaces\31-Interfaces\obj\Debug\net6.0\31-Interfaces.pdb
+C:\Users\HAZEMADEL\source\repos\31-Interfaces\31-Interfaces\obj\Debug\net6.0\31-Interfaces.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\31-Interfaces\31-Interfaces\obj\Debug\net6.0\ref\31-Interfaces.dll

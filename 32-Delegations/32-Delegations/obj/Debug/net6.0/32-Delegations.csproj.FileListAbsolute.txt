@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\32-Delegations\32-Delegations\bin\Debug\net6.0\32-Delegations.exe
+C:\Users\HAZEMADEL\source\repos\32-Delegations\32-Delegations\bin\Debug\net6.0\32-Delegations.deps.json
+C:\Users\HAZEMADEL\source\repos\32-Delegations\32-Delegations\bin\Debug\net6.0\32-Delegations.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\32-Delegations\32-Delegations\bin\Debug\net6.0\32-Delegations.dll
+C:\Users\HAZEMADEL\source\repos\32-Delegations\32-Delegations\bin\Debug\net6.0\32-Delegations.pdb
+C:\Users\HAZEMADEL\source\repos\32-Delegations\32-Delegations\obj\Debug\net6.0\32-Delegations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\32-Delegations\32-Delegations\obj\Debug\net6.0\32-Delegations.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\32-Delegations\32-Delegations\obj\Debug\net6.0\32-Delegations.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\32-Delegations\32-Delegations\obj\Debug\net6.0\32-Delegations.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\32-Delegations\32-Delegations\obj\Debug\net6.0\32-Delegations.dll
+C:\Users\HAZEMADEL\source\repos\32-Delegations\32-Delegations\obj\Debug\net6.0\refint\32-Delegations.dll
+C:\Users\HAZEMADEL\source\repos\32-Delegations\32-Delegations\obj\Debug\net6.0\32-Delegations.pdb
+C:\Users\HAZEMADEL\source\repos\32-Delegations\32-Delegations\obj\Debug\net6.0\32-Delegations.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\32-Delegations\32-Delegations\obj\Debug\net6.0\ref\32-Delegations.dll
