@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\24-Constructors\24-Constructors\bin\Debug\net6.0\24-Constructors.exe
+C:\Users\HAZEMADEL\source\repos\24-Constructors\24-Constructors\bin\Debug\net6.0\24-Constructors.deps.json
+C:\Users\HAZEMADEL\source\repos\24-Constructors\24-Constructors\bin\Debug\net6.0\24-Constructors.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\24-Constructors\24-Constructors\bin\Debug\net6.0\24-Constructors.dll
+C:\Users\HAZEMADEL\source\repos\24-Constructors\24-Constructors\bin\Debug\net6.0\24-Constructors.pdb
+C:\Users\HAZEMADEL\source\repos\24-Constructors\24-Constructors\obj\Debug\net6.0\24-Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\24-Constructors\24-Constructors\obj\Debug\net6.0\24-Constructors.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\24-Constructors\24-Constructors\obj\Debug\net6.0\24-Constructors.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\24-Constructors\24-Constructors\obj\Debug\net6.0\24-Constructors.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\24-Constructors\24-Constructors\obj\Debug\net6.0\24-Constructors.dll
+C:\Users\HAZEMADEL\source\repos\24-Constructors\24-Constructors\obj\Debug\net6.0\refint\24-Constructors.dll
+C:\Users\HAZEMADEL\source\repos\24-Constructors\24-Constructors\obj\Debug\net6.0\24-Constructors.pdb
+C:\Users\HAZEMADEL\source\repos\24-Constructors\24-Constructors\obj\Debug\net6.0\24-Constructors.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\24-Constructors\24-Constructors\obj\Debug\net6.0\ref\24-Constructors.dll
