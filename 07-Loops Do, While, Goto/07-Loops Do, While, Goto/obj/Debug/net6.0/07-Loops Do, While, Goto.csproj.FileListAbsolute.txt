@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\07-Loops Do, While, Goto\07-Loops Do, While, Goto\bin\Debug\net6.0\07-Loops Do, While, Goto.exe
+C:\Users\HAZEMADEL\source\repos\07-Loops Do, While, Goto\07-Loops Do, While, Goto\bin\Debug\net6.0\07-Loops Do, While, Goto.deps.json
+C:\Users\HAZEMADEL\source\repos\07-Loops Do, While, Goto\07-Loops Do, While, Goto\bin\Debug\net6.0\07-Loops Do, While, Goto.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\07-Loops Do, While, Goto\07-Loops Do, While, Goto\bin\Debug\net6.0\07-Loops Do, While, Goto.dll
+C:\Users\HAZEMADEL\source\repos\07-Loops Do, While, Goto\07-Loops Do, While, Goto\bin\Debug\net6.0\07-Loops Do, While, Goto.pdb
+C:\Users\HAZEMADEL\source\repos\07-Loops Do, While, Goto\07-Loops Do, While, Goto\obj\Debug\net6.0\07-Loops Do, While, Goto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\07-Loops Do, While, Goto\07-Loops Do, While, Goto\obj\Debug\net6.0\07-Loops Do, While, Goto.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\07-Loops Do, While, Goto\07-Loops Do, While, Goto\obj\Debug\net6.0\07-Loops Do, While, Goto.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\07-Loops Do, While, Goto\07-Loops Do, While, Goto\obj\Debug\net6.0\07-Loops Do, While, Goto.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\07-Loops Do, While, Goto\07-Loops Do, While, Goto\obj\Debug\net6.0\07-Loops Do, While, Goto.dll
+C:\Users\HAZEMADEL\source\repos\07-Loops Do, While, Goto\07-Loops Do, While, Goto\obj\Debug\net6.0\refint\07-Loops Do, While, Goto.dll
+C:\Users\HAZEMADEL\source\repos\07-Loops Do, While, Goto\07-Loops Do, While, Goto\obj\Debug\net6.0\07-Loops Do, While, Goto.pdb
+C:\Users\HAZEMADEL\source\repos\07-Loops Do, While, Goto\07-Loops Do, While, Goto\obj\Debug\net6.0\07-Loops Do, While, Goto.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\07-Loops Do, While, Goto\07-Loops Do, While, Goto\obj\Debug\net6.0\ref\07-Loops Do, While, Goto.dll

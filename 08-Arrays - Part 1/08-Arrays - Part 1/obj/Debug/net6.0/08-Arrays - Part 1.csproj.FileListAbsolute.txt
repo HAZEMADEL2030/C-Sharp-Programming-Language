@@ -1,0 +1,14 @@
+C:\Users\HAZEMADEL\source\repos\08-Arrays - Part 1\08-Arrays - Part 1\bin\Debug\net6.0\08-Arrays - Part 1.exe
+C:\Users\HAZEMADEL\source\repos\08-Arrays - Part 1\08-Arrays - Part 1\bin\Debug\net6.0\08-Arrays - Part 1.deps.json
+C:\Users\HAZEMADEL\source\repos\08-Arrays - Part 1\08-Arrays - Part 1\bin\Debug\net6.0\08-Arrays - Part 1.runtimeconfig.json
+C:\Users\HAZEMADEL\source\repos\08-Arrays - Part 1\08-Arrays - Part 1\bin\Debug\net6.0\08-Arrays - Part 1.dll
+C:\Users\HAZEMADEL\source\repos\08-Arrays - Part 1\08-Arrays - Part 1\bin\Debug\net6.0\08-Arrays - Part 1.pdb
+C:\Users\HAZEMADEL\source\repos\08-Arrays - Part 1\08-Arrays - Part 1\obj\Debug\net6.0\08-Arrays - Part 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEMADEL\source\repos\08-Arrays - Part 1\08-Arrays - Part 1\obj\Debug\net6.0\08-Arrays - Part 1.AssemblyInfoInputs.cache
+C:\Users\HAZEMADEL\source\repos\08-Arrays - Part 1\08-Arrays - Part 1\obj\Debug\net6.0\08-Arrays - Part 1.AssemblyInfo.cs
+C:\Users\HAZEMADEL\source\repos\08-Arrays - Part 1\08-Arrays - Part 1\obj\Debug\net6.0\08-Arrays - Part 1.csproj.CoreCompileInputs.cache
+C:\Users\HAZEMADEL\source\repos\08-Arrays - Part 1\08-Arrays - Part 1\obj\Debug\net6.0\08-Arrays - Part 1.dll
+C:\Users\HAZEMADEL\source\repos\08-Arrays - Part 1\08-Arrays - Part 1\obj\Debug\net6.0\refint\08-Arrays - Part 1.dll
+C:\Users\HAZEMADEL\source\repos\08-Arrays - Part 1\08-Arrays - Part 1\obj\Debug\net6.0\08-Arrays - Part 1.pdb
+C:\Users\HAZEMADEL\source\repos\08-Arrays - Part 1\08-Arrays - Part 1\obj\Debug\net6.0\08-Arrays - Part 1.genruntimeconfig.cache
+C:\Users\HAZEMADEL\source\repos\08-Arrays - Part 1\08-Arrays - Part 1\obj\Debug\net6.0\ref\08-Arrays - Part 1.dll
